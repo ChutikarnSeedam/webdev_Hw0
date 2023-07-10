@@ -1,0 +1,80 @@
+
+body {
+  font-family: 'Noto Sans Thai', sans-serif;
+  border-left: 0cm;
+  padding: 0;
+  margin: 0;
+  }
+
+  h1.header {
+    color: white;
+    padding-top: 4cm;
+    padding-bottom: 4cm;
+    padding-left: 0;
+    padding-right: 0;
+    margin-top: 0;
+    margin-right: 0;
+    width: 100%;
+    text-align: center;
+    font-weight: bold;
+    font-size: 2cm;
+  }
+
+  .background-image {
+    background-color: black;
+    background-image: url('https://www.krungsricard.com/getattachment/Article-Folder/Article-Folder-Item/mobile-case-(1)/Herb-2.jpg.aspx?lang=th-TH');
+    background-size: cover ;
+    background-position: center ;
+    background-repeat: no-repeat;
+  }    
+  
+  .paragraph {
+    font-weight: 500;
+    color: black;
+    border: 1px solid white;
+    padding: 25px;
+    padding-left: 9cm;
+    padding-right:9cm;
+
+  }
+
+  .head-order {
+    /* padding: 25px; */
+    padding-top: 0;
+    padding-bottom: 0;
+    /* margin: 25px */
+    
+  }
+
+  .para-order {
+    color: black;
+    padding-left: 5cm;
+    padding-right: 5cm;
+  }
+
+  img {
+    background-color: black;
+    width: 30%;
+    object-position: center;
+  }
+
+  .pic {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+  }
+  
+  ul.order {
+    column-count: 2;
+    padding-left: 9.5cm;
+    padding-right: 9cm;
+  }
+  
+  .footer {
+    font-weight: 500;
+    color: black;
+    border: 1px solid white;
+    padding: 25px;
+    padding-left: 9cm;
+    padding-right:9cm;
+  }
